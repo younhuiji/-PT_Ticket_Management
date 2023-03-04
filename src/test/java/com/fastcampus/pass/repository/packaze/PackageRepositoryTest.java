@@ -1,4 +1,4 @@
-package com.fastcampus.pass.repository;
+package com.fastcampus.pass.repository.packaze;
 
 import com.fastcampus.pass.repository.packaze.PackageEntity;
 import com.fastcampus.pass.repository.packaze.PackageRepository;
