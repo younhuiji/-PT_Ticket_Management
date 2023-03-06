@@ -38,3 +38,9 @@ VALUES ('HANBADA', 'A1000000', '한바다', '한바다 임직원 그룹', '2022-
 --         ('2022-08-04 00:03:00', 2, 2, 0),
 --         ('2022-08-05 00:04:00', 20, 18, 2),
 --         ('2022-08-08  00:05:00', 25, 30, 5);
+
+-- INSERT INTO pass (package_seq, user_id, remaining_count, status, started_at, ended_at, created_at)
+-- VALUES (4, 'B2000000',10, 'PROGRESSED', '2023-03-06 22:25:00', null, '2022-08-01 00:00:00');
+
+
+
